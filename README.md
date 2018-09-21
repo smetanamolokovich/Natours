@@ -1,6 +1,8 @@
 # Natours
 Advanced Sass Course Project N1.
 
+<h2><a href="https://aituabdiluly.github.io/Natours/">View the project</a></h2>
+
 <h2>About the course:</h2>
 
 • Tons of modern cutting-edge CSS techniques to create stunning designs and effects: clip-path, background-clip, mask-image, background-blend-mode, shape-outside, filter, backdrop-filter, object-fit, transform, column-count, hyphens, perspective, calc() and custom CSS properties;
