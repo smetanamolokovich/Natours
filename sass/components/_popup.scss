@@ -26,6 +26,10 @@
   &__left{
     width: 33.333333%;
     display: table-cell;
+
+    @include respond(tab-land){
+      display: none;
+    }
   }
 
   &__right{
@@ -49,6 +53,11 @@
     column-count: 2;
     column-gap: 4rem;
     column-rule: 1px solid $color-grey-light-2;
+
+    @include respond(tab-land){
+      -moz-column-count: 1;
+      column-count: 1;
+    }
   }
 
   &:target{
